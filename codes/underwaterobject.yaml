@@ -1,0 +1,10 @@
+# Path to dataset images and annotations
+train: C:/Users/Shahid Ahamed Hasib/Downloads/Underwater-object-detection-dataset-main/imgs/train
+val: C:/Users/Shahid Ahamed Hasib/Downloads/Underwater-object-detection-dataset-main/imgs/val
+test: C:/Users/Shahid Ahamed Hasib/Downloads/Underwater-object-detection-dataset-main/imgs/test  # Optional, if you want to test
+
+# Number of classes
+nc: 3  # You have 3 classes
+
+# Class names
+names: ['0B', '1B', '2B']
