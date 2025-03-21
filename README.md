@@ -23,11 +23,9 @@ The dataset contains the following classes:
 - Stingray
 
 ## Installation
-
 1. **Clone the repository**:
    ```bash
-!git clone https://github.com/ShahidHasib586/Underwater-object-detection-using-yolov8.git
-
+   git clone https://github.com/ShahidHasib586/Underwater-object-detection-using-yolov8.git
 
 
 Install the required dependencies:
