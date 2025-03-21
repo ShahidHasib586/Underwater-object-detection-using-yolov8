@@ -26,7 +26,7 @@ The dataset contains the following classes:
 
 1. **Clone the repository**:
    ```bash
-!git clone ..
+!git clone https://github.com/ShahidHasib586/Underwater-object-detection-using-yolov8.git
 
 
 
